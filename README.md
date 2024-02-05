@@ -1,1 +1,1 @@
-# lol
+game.Players.LocalPlayer:Kick("LOL")
